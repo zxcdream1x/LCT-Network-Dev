@@ -34,8 +34,12 @@ GAME_NOT_COMMAND_PERMISSION: "&cИзвините, но у Вас нету пра
 GAME_NOT_PERMISSION: "&cИзвините, но у Вас нету прав."
 GAME_RANDOM_BC:
 - "&eТебе грустно? Нету друзей? В привелегии &5ＶＩＰ &eи выше есть доступ к команде &b/ＰＥＴ&e, теперь стало намного веселее со своим питомцем."
-- "&eОбновления, баг-фиксы и другое выходит в нашем Ｄｉｓｃｏｒｄ-сервере: &bhttps://discord.gg/rebAPy7NUh"
+- "&eОбновления, баг-фиксы и другое выходит в нашем &3Ｄｉｓｃｏｒｄ&e-&6сервере: &bhttps://discord.gg/rebAPy7NUh"
 - "&eПокупка донат-услуг происходит &c&lТОЛЬКО&r &eна нашем сайте: &blctnetworks.xyz"
-GAME_TAB_TITLE: "&b&lLCT NETWORK"
+GAME_TAB_TITLE: "&b&lLCT-NETWORKS"
 GAME_TAB_HEADER: "&6Онлайн: &b%online%\n&6Общий онлайн: &b%bcobline%"
 GAME_TAB_DOWN: "&6Discord: &bdiscord.gg/rebAPy7NUh\n&6Сайт: &blctnetworks.xyz"
+GAME_SCOREBOARD_TITLE: "&b&lLCT-NETWORKS"
+GAME_SCOREBOARD:
+- "Верт сделает, ок"
+GAME_SCOREBOARD_FOOTER: "&blctnetworks.xyz"
