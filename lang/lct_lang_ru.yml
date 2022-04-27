@@ -37,5 +37,5 @@ GAME_RANDOM_BC:
 - "&eОбновления, баг-фиксы и другое выходит в нашем Ｄｉｓｃｏｒｄ-сервере: &bhttps://discord.gg/rebAPy7NUh"
 - "&eПокупка донат-услуг происходит &c&lТОЛЬКО&r &eна нашем сайте: &blctnetworks.xyz"
 GAME_TAB_TITLE: "&b&lLCT NETWORK"
-GAME_TAB_HEADER: "&6Онлайн режима: &b%online%\n&6Общий онлайн: &b%bcobline%"
+GAME_TAB_HEADER: "&6Онлайн: &b%online%\n&6Общий онлайн: &b%bcobline%"
 GAME_TAB_DOWN: "&6Discord: &bdiscord.gg/rebAPy7NUh\n&6Сайт: &blctnetworks.xyz"
